@@ -7,7 +7,7 @@ const HomePage = () => {
 
   return (
     <div className="w-full h-screen flex justify-center items-center text-3xl">
-      Hello {user?.username}
+      Hello Hello {user?.username}
     </div>
   );
 };
